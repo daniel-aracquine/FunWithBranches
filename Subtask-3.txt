@@ -30,8 +30,6 @@ He is a nice person and easy to approach.
 - K.C.
 He is really helpful,cool and funny.
 
-Subtask-3
-
 -E.
 The most cool and patient senior i ever met.
 
@@ -166,6 +164,9 @@ He is friendly and humble.
 
 - R.H.
 He's helping all freshers with resources on his git repo, and he explains things REALLY well.
+
+-R.R.
+Is my tech parent and he is awesome..!
 
 - R.H. 
 He does social work ( FOSS workshop co-ordination) with ease.
