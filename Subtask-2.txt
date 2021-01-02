@@ -185,8 +185,7 @@ He is very funny and always ready to help.
 He is friendly and nice person.
 
 -P.S.
-He has helped many times.
-He is supportive.
+He has helped many times. He is supportive.
 
 -V.M 
 Extremely Helpful
@@ -223,7 +222,6 @@ Super helpful and super fun! Haven't come across a cooler senior.
 - S.
 He is extremely helpful and cooperating.
 
-
 -G.S.
 He has helped me and guided me in course subjects and has a cool personality in addition.
 
@@ -232,7 +230,6 @@ He was very helpful during FOSS workshop and cleared my doubts.
 
 - A.R.
 He's very supportive, helped me out as if I wasn't a stranger.
-
 
 - K.T.
 He is the only first year student who cracked GSoC and and he is always ready to help.
@@ -292,5 +289,3 @@ He helped with me course subjects and also has a cool pesonality.
 
 -K.T.
 He is very helpful and he the guy who cracked gsoc in first year.
-
- 
