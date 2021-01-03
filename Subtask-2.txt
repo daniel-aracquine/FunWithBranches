@@ -1,6 +1,4 @@
 SUBTASK 2
-- M.A.
-He is very friendly and helpful.
 
 - B.B.
 He gives the best life advice to us juniors. His ideologies are really intresting.
@@ -329,10 +327,6 @@ He has helped me many times  and also I can say he is friendly senior.
 He helped with me course subjects and also has a cool pesonality.
 
 -K.T.
-
-
-.
-
 He is very helpful and he the guy who cracked gsoc in first year.
 
 -Y.G.
@@ -368,7 +362,6 @@ His teaching style is Great and very helpful.
 
 -R.P.
 She helps me a lot and answers my every query.
-
 
 - S.S
 She is very chill.
