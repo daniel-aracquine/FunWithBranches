@@ -193,6 +193,7 @@ He is friendly and nice person.
 -P.S.
 He has helped many times. He is supportive.
 
+
 -V.M 
 Extremely Helpful
 
@@ -211,6 +212,12 @@ He has been very helpful to me. We share common interest for basketball.
 - V.M.
 He is a very helpful, cool and amiable guy.
 He has immense patience while solving the doubts of the freshers.
+
+- V.B.
+He is very humble and guides me.
+
+-K.T.
+he is always ready to help and his coding ability is quite impressive.
 
 S.T-
 He is my tech father.
