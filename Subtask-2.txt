@@ -203,7 +203,6 @@ He is friendly and nice person.
 -P.S.
 He has helped many times. He is supportive.
 
-
 -V.M 
 Extremely Helpful
 
@@ -225,6 +224,7 @@ He has been very helpful to me. We share common interest for basketball.
 
 - V.M.
 He is a very helpful, cool and amiable guy.
+
 He has immense patience while solving the doubts of the freshers.
 
 - V.B.
@@ -356,3 +356,6 @@ He is very supportive in nature and always give good advise.
 
 -S.S.
 She is very helpful and generous and clears all my queries.
+
+- V.M.
+His teaching style is Great and very helpful.
