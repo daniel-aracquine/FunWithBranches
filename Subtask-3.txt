@@ -330,3 +330,6 @@ Sir has really great teaching style.
 
 -R.H.
 He is a very experienced senior and I would like to learn more about coding from him.
+
+- R.H.
+He is cool. He (and other seniors) taught me git :).
