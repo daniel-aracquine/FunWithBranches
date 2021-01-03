@@ -336,8 +336,6 @@ He is a very experienced senior and I would like to learn more about coding from
 
 - R.H.
 He is cool. He (and other seniors) taught me git :).
-
--R.H.
 He is inspiring and charismatic.
 
 -Y.G.
@@ -345,3 +343,6 @@ She is very kind and helpful.
 
 -R.H.
 He's really humble, always trying to help others.
+
+-R.H.
+He is really cool.
