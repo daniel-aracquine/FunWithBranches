@@ -328,7 +328,8 @@ He supports us very much and is very humble.
 -R.H. 
 He is very helpful and inspiring.
 
--R.H.
+
+
 Sir has really great teaching style. 
 
 -R.H.
@@ -336,3 +337,6 @@ He is a very experienced senior and I would like to learn more about coding from
 
 - R.H.
 He is cool. He (and other seniors) taught me git :).
+
+-R.H.
+He is inspiring and charismatic.
